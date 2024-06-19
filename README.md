@@ -14,7 +14,6 @@ WeUI icon 是 WeUI 的 配套图标库，目前分为`filled (填充)`和`outlin
 ## 使用
 主要是通过**class**来控制。class 规则是`weui-icon-[style]-[name]`，比如需要展示预览图中，`filled`样式的`add-friends`，则 class 为`weui-icon-filled-add-friends`。
 
-
 #### link
 
 html
